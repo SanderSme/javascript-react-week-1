@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.App ul {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding-left: 0;
+}
+
+.App li {
+  display: flex;
+  flex-direction: column;
+  background-color: bisque;
+  gap: 8px;
+}
